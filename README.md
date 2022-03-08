@@ -1,0 +1,2 @@
+# automation_PIT_0_project_0_repo_0
+https://cvautounix:fbked6py3d4leuzd6fxtgnygyrz2zsdhfctt7ady5grjmvmzbe3q@dev.azure.com/cvautounix/automation_PIT_0_project_0/_git/automation_PIT_0_project_0_repo_0
